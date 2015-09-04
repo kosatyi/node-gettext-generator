@@ -1,6 +1,10 @@
 {
   "name": "node-gettext-generator",
   "main": "index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/kosatyi/node-gettext-generator.git"
+  }
   "dependencies": {
     "filewalker":"~0.0.1",
     "deferred"  :"~0.7.1"

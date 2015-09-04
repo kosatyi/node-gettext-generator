@@ -1,0 +1,8 @@
+{
+  "name": "node-gettext-generator",
+  "main": "index.js",
+  "dependencies": {
+    "filewalker":"~0.0.1",
+    "deferred"  :"~0.7.1"
+  }
+}

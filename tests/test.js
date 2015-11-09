@@ -2,7 +2,7 @@ var generator = require('../lib/generator');
 
 generator({
     name: 'messages',
-    keywords:['_'],
+    keywords:['__'],
     source:'./source',
     target:'./locale',
     locales:['ru','en','uk']

@@ -6,4 +6,6 @@ generator({
     source:'./source',
     target:'./locale',
     locales:['ru','en','uk']
+})(function(){
+
 });

@@ -1,7 +1,7 @@
 # Node Gettext Generator
 ----
 ## Requirements
-Node Gettext Generator requires `Node v0.10.42` or grater.
+Node Gettext Generator requires `Node v0.10.42` or greater.
 ## Installation
 Add dependency to package.json
 ```php

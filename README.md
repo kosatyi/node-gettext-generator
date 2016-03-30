@@ -1,2 +1,4 @@
-# node-gettext-generator
+# Node Gettext Generator
 ----
+
+

@@ -7,5 +7,5 @@ generator({
     target:'./locale',
     locales:['ru','en','uk']
 })(function(){
-
+	
 });

@@ -1,14 +1,16 @@
 {
   "name": "node-gettext-generator",
-  "version": "0.0.35",
+  "version": "0.1.2",
   "main": "index.js",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/kosatyi/node-gettext-generator.git"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kosatyi/node-gettext-generator.git"
   },
   "dependencies": {
-    "filewalker":"~0.0.1",
-    "deferred"  :"~0.7.1",
-    "extend"    :"~3.0.0"
+    "deferred": "~0.7.1",
+    "extend": "~3.0.0",
+    "filewalker": "~0.0.1",
+    "i18next-conv": "^5.0.0"
   }
 }

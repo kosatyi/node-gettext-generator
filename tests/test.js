@@ -1,8 +1,7 @@
 var generator = require('../lib/generator');
 
-
-
 generator.process({
+    javascript:true,
     extract:{
         path    : ['./source'],
         match   : /_(?:\(|\s)(?:["'])(.+?)(?:["'])(?:\)|\s?)/g,
@@ -11,7 +10,6 @@ generator.process({
     },
     params : {
         name: 'messages',
-        language:'Python',
         keywords:['_'],
         source:['./source','./extract'],
         target:'./locale',

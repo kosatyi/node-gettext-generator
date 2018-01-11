@@ -8,7 +8,7 @@ Add dependency to package.json
 {
   ...
   "dependencies": {
-     "node-gettext-generator": "git://github.com/kosatyi/node-gettext-generator"
+     "node-gettext-generator": "^0.2.7"
   }
   ...
 }

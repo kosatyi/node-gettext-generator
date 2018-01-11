@@ -29,7 +29,7 @@ generator.process({
         locales:['ru','en','uk','lv','cs','fr','sk']
     },
     javascript:{
-
+        namespace:'i18n'
     }
 });
 ```

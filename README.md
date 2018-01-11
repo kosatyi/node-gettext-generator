@@ -16,15 +16,22 @@ Add dependency to package.json
 ## Example
 ```javascript
 var generator = require('node-gettext-generator');
-    generator({
+generator.process({
+    extract:{
+        path  :['./src/views'],
+        target:'./src/locale/templates.js'
+    },
+    params : {
         name: 'messages',
         keywords:['_'],
-        source:['./source_target1','./source_target2'],
-        target:'./locale',
-        locales:['en','de']
-    })(function(){
-        console.log('generation complete');
-    });
+        source:['./src/views','./src/js/app','./src/locale'],
+        target:'./locales',
+        locales:['ru','en','uk','lv','cs','fr','sk']
+    },
+    javascript:{
+
+    }
+});
 ```
 
 

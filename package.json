@@ -1,6 +1,6 @@
 {
   "name": "node-gettext-generator",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "main": "index.js",
   "license": "MIT",
   "repository": {
@@ -10,7 +10,7 @@
   "dependencies": {
     "deferred": "~0.7.1",
     "extend": "~3.0.0",
-    "filewalker": "~0.0.1" ,
+    "filewalker": "~0.0.1",
     "i18next-conv": "~2.0.0"
   }
 }

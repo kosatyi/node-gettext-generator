@@ -4,8 +4,6 @@ generator.process({
     javascript:true,
     extract:{
         path    : ['./source'],
-        match   : /_(?:\(|\s)(?:["'])(.+?)(?:["'])(?:\)|\s?)/g,
-        replace : '_(\'$1\')',
         target  : './extract/templates.js'
     },
     params : {

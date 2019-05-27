@@ -1,7 +1,7 @@
 # Node Gettext Generator
 
 ![npm](https://img.shields.io/npm/v/node-gettext-generator.svg)
-![downloads](https://img.shields.io/npm/dt/node-gettext-generator.svg)  
+![downloads](https://img.shields.io/npm/dt/node-gettext-generator.svg)
 ![license](https://img.shields.io/npm/l/node-gettext-generator.svg) 
 ![github-issues](https://img.shields.io/github/issues/kosatyi/node-gettext-generator.svg) 
 

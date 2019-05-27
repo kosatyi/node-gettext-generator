@@ -18,7 +18,7 @@ navigation: false
 
 projects: true
 
-brand: NGG
+brand: node-gettext-generator
 title: Node Gettext Generator
 description: Generate translation from your project source files to *.po files and compile to *.mo
 

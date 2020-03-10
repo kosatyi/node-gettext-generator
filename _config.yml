@@ -1,22 +1,9 @@
-plugins:
-  - jekyll-seo-tag
-
-port: 4001
-
-styles:
-
 remote_theme: kosatyi/sjt
 
-exclude:
-  - vendor
-
-javascript:
+navigation: false
+projects: true
 
 baseurl: /node-gettext-generator
-
-navigation: false
-
-projects: true
 
 brand: node-gettext-generator
 title: Node Gettext Generator
@@ -24,6 +11,4 @@ description: Generate translation from your project source files to *.po files a
 
 author:
   name: Stepan Kosatyi
-  url: http://www.kosatyi.com/
-
-toolbar:
+  url: https://kosatyi.com/

@@ -21,6 +21,7 @@ projects: true
 brand: node-gettext-generator
 title: Node Gettext Generator
 description: Generate translation from your project source files to *.po files and compile to *.mo
+analytics: UA-37629144-1
 
 author:
   name: Stepan Kosatyi

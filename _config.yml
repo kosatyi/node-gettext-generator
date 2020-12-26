@@ -9,6 +9,7 @@ brand: node-gettext-generator
 title: Node Gettext Generator
 description: Generate translation from your project source files to *.po files and compile to *.mo
 analytics: UA-37629144-1
+adsense: ca-pub-3650650669153101
 
 author:
   name: Stepan Kosatyi
